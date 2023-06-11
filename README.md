@@ -1,6 +1,6 @@
 ## Remove Atalhos 2.0
 
-![logo](remove.png)
+![logo](FINAL.png)
 
 Este projeto foi desenvolvido com o objetivo de remover o vírus de pendrive, responsável por ocultar os arquivos e criar uma série de atalhos, além disso ele permite a restauração dos arquivos originais, bem como a eliminação de todos os atalhos.
 
@@ -24,7 +24,7 @@ Projeto de software descontinuado.
 * Desoculta os arquivos originais.
 
 ### Links
-[Repository](https://github.com/AlainMota9/Remove_Atalhos)
+[Repository](https://github.com/AlainMota9/Remove_Atalhos_2.0)
 
 ### Controle de versão
 1.0.0.0
