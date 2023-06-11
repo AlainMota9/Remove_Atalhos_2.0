@@ -28,7 +28,7 @@ Projeto de software descontinuado.
 [Repository](https://github.com/AlainMota9/Remove_Atalhos_2.0)
 
 ### Controle de versão
-1.0.0.0
+2.0.0.0
 
 ### Autor
 Alain L. Mota: [@AlainMota](https://github.com/AlainMota9)
